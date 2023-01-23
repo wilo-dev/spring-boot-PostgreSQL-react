@@ -31,3 +31,15 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### LOG FILES ###
+*.log
+
+### LOCAL CONFIGURATION FILE ###
+*.properties
+*.sql
+
+
+### FILE ###
+uploads/*.jpg
+/*.zip
